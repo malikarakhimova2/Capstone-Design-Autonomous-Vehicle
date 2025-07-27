@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="initials" type="initl.py" name="draw_letters" output="screen"></node>
+    <node pkg="initials" type="digits.py" name="draw_digits" output="screen"></node>
+    <node pkg="initials" type="frame.py" name="draw_frame" output="screen"></node>
+</launch>
