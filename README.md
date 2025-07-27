@@ -16,7 +16,3 @@ Camera Calibration: Adjusted using intrinsic and extrinsic calibration for accur
 Control Logic: Lane following achieved by adjusting linear and angular velocity based on image feedback
 Packages Used: [TurtleBot3 AutoRace](https://github.com/ROBOTIS-GIT/turtlebot3_autorace_2020) as the base framework
 
-## Results
-Check the results of the work
-
-![result](./Result.mp4)
